@@ -1,0 +1,4 @@
+master_node/build/
+master_node/.vscode/
+slave_node/build/
+slave_node/.vscode/
