@@ -11,6 +11,8 @@ Base code for master and slave on an standalone can bus, usign esp32. Esp32 can 
 ## Circuit
 <img src="img/circuit.png" width="60%">
 
+* The 120 ohm termination resistor is inside of TJA1051 board.
+
 ## How to use
 * For both use the next steps:
 ```c
